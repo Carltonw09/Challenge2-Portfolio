@@ -11,18 +11,17 @@ Building a website to show a little of my creativity side and also something I l
 
 ## Acceptance Criteria
 
-It is done when all non semantic is turned into semantic.
-It is done when all h1,h2,h3 are in order in css.style.
-It is done when all that can be consoladated in css are consoladated.
+It is done when I created a project with a theme of my own.
+
+It is done when I put links within the horiseon picture.
+
+It is done when I put a link at the bottom to go directly into my Github.
 
 ## Assets
 
 This is a preview of the website. 
 
-<a>href="https://carltonw09.github.io/Homework-Challenge1-Code-Refactoring/" live link</a>
-
- ![Alt text](image-3.png)
-
+<a>href="https://github.com/Carltonw09/Challenge2-Portfolio" live link</a>
 
 ## License
 
