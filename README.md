@@ -1,15 +1,15 @@
-# Challenge2-Portfolio
+# Portfolio
 
 ## Description
 
-Refactoring non semantic into semantics to meet a certain set of standard, for example turning div's into its correct elements. Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+Building a website to show a little of my creativity side and also something I look at as a hobby but others may just look at it as just something I like. This website is about me the liking I have for shoes and the type of shoes I like also has examples of the brand of sneakers I am into.
 
 - My motivation was to find a way to understand the background of a website.
 - I built this project to better my knowledge on how little mistakes can ruin a whole website.
-- The problem that was solved is now that everything is now in order everything should work smoothly
+- The problem that was solved was basically taking something that was a blank page and turning it into a page about me and being creative with it.
 - I learned that its more to just a website.
 
-## Installation
+## Acceptance Criteria
 
 It is done when all non semantic is turned into semantic.
 It is done when all h1,h2,h3 are in order in css.style.
