@@ -109,10 +109,11 @@ figcaption img{
     position: absolute;
     z-index: 1; 
 }
+
 #big-img h2{
     position: absolute;
     z-index: 2;
-    top: 90%;
+    margin-top: 60%;
 }
 
 #small-img{
